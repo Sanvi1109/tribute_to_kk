@@ -1,0 +1,81 @@
+h4{
+    margin-left: 50px;
+    font-family: cursive;
+    font-weight: 700px;
+    margin-right: 900px;
+}
+
+header{
+    display: flex;
+}
+.item{
+    display: inline-block;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    list-style: none;
+    margin-right: 40px;
+}
+
+#kk{
+   width: 900px;
+   margin-right: 50px;
+   height: 700px;
+   border-radius: 10px;
+}
+
+h1{
+    color: black;
+    font-family: 'Signika Negative', sans-serif;
+    text-align: left;
+    margin-top: 80px;
+    font-size: 50px;
+}
+
+#intro{
+    height: 600px;
+    display: flex;
+}
+
+.container{
+    display: flex;
+}
+
+p{
+    font-family: cursive;
+    font-size: 18px;
+    color: red;
+    margin-right: 70px;
+}
+
+.line{
+    background-color: black;
+    width: 200px;
+    height: 5px;
+    margin: 8px auto;
+}
+
+#tribute{
+    margin-top: 200px;
+    align-items: center;
+}
+
+#tribute_head{
+    margin-left: 625px;
+}
+
+iframe{
+    margin-left: 500px;
+}
+
+.contact{
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 800px;
+    border-radius: 30px;
+    margin-left: 300px;
+}
+
+#contact_head{
+    margin-left: 600px;
+}
